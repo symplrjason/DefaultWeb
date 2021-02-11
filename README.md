@@ -2,7 +2,7 @@
 
 This is the first file in this repo.
 
-## Website Contens
+## Website Contents
 Here are the files
 
 M Test
